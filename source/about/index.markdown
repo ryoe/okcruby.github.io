@@ -13,7 +13,7 @@ that by forming okcruby, with the hopes that it would be a good way for
 Oklahoma Rubyists to connect and share ideas.
 
 [Rob Sullivan][] ([@DataChomp][]), from [RaiseMore][], [Michael Gorsuch][] ([@michaelgorsuch][]) from [GitHub][], and
-[Jeremy Green][] ([@jagthedrummer][]) from [OctoLabs][] (who is very bad at Twitter) decided to join forces to reignite the
+[Jeremy Green][] ([@jagthedrummer][]) from [OctoLabs][] (who is very bad at Twitter) teamed up to reignite the
 Ruby community in Oklahoma.  We hope you'll join us!
 
 [Rob Sullivan]: http://www.datachomp.com/ "DataChomp"
