@@ -25,4 +25,5 @@ We have funding, location and topics lined up through the end of 2013 and we hum
 <a href="http://github.com">Github <img src="{{ root_url }}/images/sponsors/sponsorcat.jpg" height="200" width="200" /></a>
   
 ###### Prize Sponsor(s):
-<a href="http://www.unixstickers.com/"><img src="{{ root_url }}/images/sponsors/unixstickers.png" /></a>
+<a href="http://www.unixstickers.com/"><img src="{{ root_url }}/images/sponsors/unixstickers.png" /></a>  
+<a href="https://shiprise.dpdcart.com/">Avdi and the Shiprise Team</a>
