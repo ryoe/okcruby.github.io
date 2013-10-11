@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wrapup : October 10th Meeting"
+title: "Wrap Up : October 10th Meeting"
 date: 2013-10-11 00:13
 comments: true
 categories: 
