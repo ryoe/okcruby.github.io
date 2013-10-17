@@ -17,10 +17,10 @@ OKC Ruby meets the 2nd Thursday of every month, 11:30-12:30 at The Exchange
 #### Organizers
 [Jeremy Green][] ([@jagthedrummer][]) from [OctoLabs][]  
 [Michael Gorsuch][] ([@michaelgorsuch][]) from [GitHub][]  
-[Rob Sullivan][] ([@DataChomp][])  
+[Rob Sullivan][] ([@datachomp][])  
 
-[Rob Sullivan]: http://www.datachomp.com/ "DataChomp"
-[@DataChomp]: https://twitter.com/DataChomp "@DataChomp"
+[Rob Sullivan]: http://www.datachomp.com/ "datachomp"
+[@datachomp]: https://twitter.com/DataChomp "@datachomp"
 
 [Michael Gorsuch]: http://gorsuch.github.io/ "Michael Gorsuch"
 [GitHub]: http://www.github.com/ "GitHub"
