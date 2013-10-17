@@ -28,7 +28,7 @@ sure to pull from the master repo on Github.
 git pull --rebase
 ```
 
-Then make your changes and commit (to the source branch).  The to deploy
+Then make your changes and commit (to the source branch).  Then to deploy
 you can run:
 
 ```
