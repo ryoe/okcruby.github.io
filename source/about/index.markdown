@@ -47,5 +47,3 @@ Unacceptable behaviors include harassing, abusive, discriminatory, or derogatory
 These behaviors will not be tolerated and anyone asked to stop is expected to comply immediately. If a participant behaves unacceptably, the conference organizers may take action they deem appropriate, including expulsion from the conference without warning or refund.  
   
 current okcruby code of conduct based on our ruby friends in Vermont: http://burlingtonruby.com/conduct.html
-
-
