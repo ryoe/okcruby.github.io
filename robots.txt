@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://okcruby.github.io/sitemap.xml 
+Sitemap: http://www.okcruby.org/sitemap.xml 

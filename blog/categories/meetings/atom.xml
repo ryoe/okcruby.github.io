@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[okcruby]]></title>
-  <link href="http://www.okcruby.org/atom.xml" rel="self"/>
+  <title><![CDATA[Category: meetings | okcruby]]></title>
+  <link href="http://www.okcruby.org/blog/categories/meetings/atom.xml" rel="self"/>
   <link href="http://www.okcruby.org/"/>
   <updated>2013-10-16T22:15:34-05:00</updated>
   <id>http://www.okcruby.org/</id>
@@ -33,11 +33,11 @@ We are also planning to have a 15 minute VPS cage match between Digital Ocean an
 
 <h5>Event Sponsor:</h5>
 
-<p><a href="http://github.com">Github <img src="http://www.okcruby.org/images/sponsors/sponsorcat.jpg" height="200" width="200" /></a></p>
+<p><a href="http://github.com">Github <img src="/images/sponsors/sponsorcat.jpg" height="200" width="200" /></a></p>
 
 <h6>Prize Sponsor(s):</h6>
 
-<p><a href="http://www.unixstickers.com/"><img src="http://www.okcruby.org/images/sponsors/unixstickers.png" /></a><br/>
+<p><a href="http://www.unixstickers.com/"><img src="/images/sponsors/unixstickers.png" /></a><br/>
 <a href="https://shiprise.dpdcart.com/">Avdi and the Shiprise Team</a></p>
 ]]></content>
   </entry>
