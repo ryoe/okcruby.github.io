@@ -9,7 +9,7 @@ To checkout this repo to begin working you only need the `source`
 branch:
 
 ```
-git clone git@github.com:okcruby/okcruby-round2.github.io.git -b source okcruby-round2.github.io
+git clone git@github.com:okcruby/okcruby.github.io.git -b source okcruby.github.io
 ```
 
 Then you need to setup the `_deploy` directory:
@@ -18,7 +18,7 @@ Then you need to setup the `_deploy` directory:
 mkdir _deploy
 cd _deploy
 git init
-git remote add -t master -f origin git@github.com:okcruby/okcruby-round2.github.io.git
+git remote add -t master -f origin git@github.com:okcruby/okcruby.github.io.git
 ```
 
 Anytime that you want to make changes to the site you should first make
