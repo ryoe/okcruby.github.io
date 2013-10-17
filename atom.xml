@@ -4,7 +4,7 @@
   <title><![CDATA[okcruby]]></title>
   <link href="http://www.okcruby.org/atom.xml" rel="self"/>
   <link href="http://www.okcruby.org/"/>
-  <updated>2013-10-16T22:15:34-05:00</updated>
+  <updated>2013-10-16T22:17:15-05:00</updated>
   <id>http://www.okcruby.org/</id>
   <author>
     <name><![CDATA[okcruby]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Wrap Up : October 10th Meeting]]></title>
+    <link href="http://www.okcruby.org/blog/2013/10/11/wrapup-october-10th-meeting/"/>
+    <updated>2013-10-11T00:13:00-05:00</updated>
+    <id>http://www.okcruby.org/blog/2013/10/11/wrapup-october-10th-meeting</id>
+    <content type="html"><![CDATA[<p>Thanks to everyone who came to the first meeting.  We were blown
+away by the turn out.  When we first started plannig the meeting we
+guessed that there might be around 15-20 people in attendance.  The
+actual number today was about 40, and everyone was very enthusiastic.<br/>
+It&rsquo;s really awesome to see so much excitement in the local Ruby community.</p>
+
+<p>Here are links to the slides for todays presentations.</p>
+
+<h3><a href="http://www.okcruby.org/assets/VPS_Benchmarks.pdf" title="VPS Benchmarks">VPS Benchmarks</a></h3>
+
+<h3><a href="http://octo-labs.github.io/rabl-slides/" title="JSON all the things">JSON all the things</a></h3>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[First Meeting - October 10th]]></title>
