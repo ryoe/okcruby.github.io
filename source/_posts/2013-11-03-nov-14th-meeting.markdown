@@ -21,7 +21,7 @@ If you have an issue with using Google, please don't hesitate to DM on Twitter, 
   
 {Jeremy, Michael, Rob}  
   
-Event Sponsor - [Principal Tech][2]  
+Event Sponsor - [<img src="http://www.principaltechnologies.com/Portals/_default/Skins/Principal_Technologies/images/logo.png" alt="principaltech">][2]  
 Prize Sponsors - Avdi and the [Shiprise][3] Team
 
 
