@@ -4,7 +4,7 @@
   <title><![CDATA[okcruby]]></title>
   <link href="http://www.okcruby.org/atom.xml" rel="self"/>
   <link href="http://www.okcruby.org/"/>
-  <updated>2013-10-17T10:08:43-05:00</updated>
+  <updated>2013-11-03T20:28:58-06:00</updated>
   <id>http://www.okcruby.org/</id>
   <author>
     <name><![CDATA[okcruby]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Nov 14th Meeting]]></title>
+    <link href="http://www.okcruby.org/blog/2013/11/03/nov-14th-meeting/"/>
+    <updated>2013-11-03T20:16:00-06:00</updated>
+    <id>http://www.okcruby.org/blog/2013/11/03/nov-14th-meeting</id>
+    <content type="html"><![CDATA[<h4>November 14th Meeting</h4>
+
+<p>We have a double header of ruby goodness from the raisemore.com team for you this month!</p>
+
+<p>Starting things off, Josh Bavari (<a href="https://twitter.com/jbavari">@jbavari</a>) will show us how to about how Rails Engines work and how to make use of them.</p>
+
+<p>After that, our local Data Magistrate Rob Sullivan (<a href="https://twitter.com/datachomp">@datachomp</a>) will show us why sequel is his top shelf data library.</p>
+
+<p>Location: <a href="http://www.exchangeokc.com/">The Exchange</a>
+Time: 11:30 &ndash; 12:30
+RSVP: Please RSVP in the event in the Google Community. We use this number strictly for ordering food.<br/>
+If you have an issue with using Google, please don&rsquo;t hesitate to DM on Twitter, email us or whatever.</p>
+
+<p>{Jeremy, Michael, Rob}</p>
+
+<p>Event Sponsor &ndash; <a href="http://www.principaltechnologies.com/">Principal Tech</a><br/>
+Prize Sponsors &ndash; Avdi and the <a href="http://shiprise.net/">Shiprise</a> Team</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Wrap Up : October 10th Meeting]]></title>
