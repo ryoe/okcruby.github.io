@@ -4,7 +4,7 @@
   <title><![CDATA[okcruby]]></title>
   <link href="http://www.okcruby.org/atom.xml" rel="self"/>
   <link href="http://www.okcruby.org/"/>
-  <updated>2013-11-03T20:45:00-06:00</updated>
+  <updated>2013-11-13T14:39:52-06:00</updated>
   <id>http://www.okcruby.org/</id>
   <author>
     <name><![CDATA[okcruby]]></name>
@@ -22,7 +22,7 @@
 
 <p>We have a double header of ruby goodness from the raisemore.com team for you this month!</p>
 
-<p>Starting things off, Josh Bavari (<a href="https://twitter.com/jbavari">@jbavari</a>) will show us how to about how Rails Engines work and how to make use of them.</p>
+<p>Starting things off, Josh Bavari (<a href="https://twitter.com/jbavari">@jbavari</a>) will show us how Rails Engines work and how to make use of them.</p>
 
 <p>After that, our local Data Magistrate Rob Sullivan (<a href="https://twitter.com/datachomp">@datachomp</a>) will show us why sequel is his top shelf data library.</p>
 
