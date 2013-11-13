@@ -9,7 +9,7 @@ categories:
 
 We have a double header of ruby goodness from the raisemore.com team for you this month!  
 
-Starting things off, Josh Bavari ([@jbavari][4]) will show us how to about how Rails Engines work and how to make use of them.  
+Starting things off, Josh Bavari ([@jbavari][4]) will show us how Rails Engines work and how to make use of them.  
 
 After that, our local Data Magistrate Rob Sullivan ([@datachomp][5]) will show us why sequel is his top shelf data library.
   
