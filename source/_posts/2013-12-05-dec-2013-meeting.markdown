@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Dec 2013 Meeting"
+date: 2013-12-05 10:59
+comments: true
+categories: 
+---
+#### December 12th Meeting
+
+We have a double header of ruby goodness from frontend to backend!
+
+Starting things off, Jeremy Green ([@jagthedrummer][2]) will have a cage match with Resque and Sidekiq. Who will come out on top? Come and find out.
+
+After that, Grant Schofield ([@schofield][3]) will be breaking down JRuby and Trinidad. He and his team of giraffes broke away from MRI and will be showing us what they have learned from the school of hard ops.
+
+
+Location: [The Exchange][1]  
+Time: 11:30 - 12:30  
+RSVP: Please RSVP in the event in the Google Community. We use this number strictly for ordering food.  
+If you have an issue with using Google, please don't hesitate to DM on Twitter, email us or whatever.
+
+{Jeremy, Michael, Rob}
+
+Food Sponsor - Lucas and Lauren at [Robert Half][4]. Say hi to them.
+[1]: http://www.exchangeokc.com/
+[2]: https://twitter.com/jagthedrummer
+[3]: https://twitter.com/schofield
+[4]: http://www.roberthalf.com/technology/
