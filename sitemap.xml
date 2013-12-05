@@ -2,30 +2,34 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://www.okcruby.org/blog/2013/09/05/first-meeting-october-10th/</loc>
-        <lastmod>2013-11-03T20:34:29-06:00</lastmod>
+        <lastmod>2013-12-05T10:33:24-06:00</lastmod>
     </url>
     <url>
         <loc>http://www.okcruby.org/blog/2013/10/11/wrapup-october-10th-meeting/</loc>
-        <lastmod>2013-11-03T20:12:59-06:00</lastmod>
+        <lastmod>2013-12-05T10:33:24-06:00</lastmod>
     </url>
     <url>
         <loc>http://www.okcruby.org/blog/2013/11/03/nov-14th-meeting/</loc>
-        <lastmod>2013-11-13T14:39:02-06:00</lastmod>
+        <lastmod>2013-12-05T10:33:24-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.okcruby.org/blog/2013/12/05/dec-2013-meeting/</loc>
+        <lastmod>2013-12-05T11:05:56-06:00</lastmod>
     </url>
     <url>
         <loc>http://www.okcruby.org/about/</loc>
-        <lastmod>2013-11-03T20:12:59-06:00</lastmod>
+        <lastmod>2013-12-05T10:33:24-06:00</lastmod>
     </url>
     <url>
         <loc>http://www.okcruby.org/blog/archives/</loc>
-        <lastmod>2013-11-13T14:39:02-06:00</lastmod>
+        <lastmod>2013-12-05T11:05:56-06:00</lastmod>
     </url>
     <url>
         <loc>http://www.okcruby.org/</loc>
-        <lastmod>2013-11-13T14:39:02-06:00</lastmod>
+        <lastmod>2013-12-05T11:05:56-06:00</lastmod>
     </url>
     <url>
         <loc>http://www.okcruby.org/robots.txt</loc>
-        <lastmod>2013-11-03T20:12:59-06:00</lastmod>
+        <lastmod>2013-12-05T10:33:24-06:00</lastmod>
     </url>
 </urlset>
