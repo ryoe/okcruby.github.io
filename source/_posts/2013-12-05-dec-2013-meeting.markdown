@@ -16,7 +16,7 @@ After that, Grant Schofield ([@schofield][3]) will be breaking down JRuby and Tr
 
 Location: [The Exchange][1]  
 Time: 11:30 - 12:30  
-RSVP: Please RSVP in the event in the Google Community. We use this number strictly for ordering food.  
+RSVP: Please [RSVP in the event in the Google Community][5]. We use this number strictly for ordering food.  
 If you have an issue with using Google, please don't hesitate to DM on Twitter, email us or whatever.
 
 {Jeremy, Michael, Rob}
@@ -26,3 +26,4 @@ Food Sponsor - Lucas and Lauren at [Robert Half][4]. Say hi to them.
 [2]: https://twitter.com/jagthedrummer
 [3]: https://twitter.com/schofield
 [4]: http://www.roberthalf.com/technology/
+[5]: https://plus.google.com/events/c0fr08428bb1e8nb4sctbqmaruo
