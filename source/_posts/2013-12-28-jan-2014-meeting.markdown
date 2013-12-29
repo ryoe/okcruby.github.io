@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Jan 2014 Meeting"
+date: 2013-12-28 18:36
+comments: true
+categories: 
+---
+#### January 09th Meeting
+
+Hold on to your queries, the [Brightbit][1] superstars are going to show us how they put on their hard hats and turn active record into their pick axe.
+
+Theme of the meeting is "How Brightbit constructs complex database queries with Active Record" and here is a little more about [Brightbit][3]:
+
+
+Location: [The Exchange][1]  
+Time: 11:30 - 12:30  
+RSVP: Please [Coming Soon][5]. We use this number strictly for ordering food.  
+If you have an issue with using Google, please don't hesitate to DM on Twitter, email us or whatever.
+
+{Jeremy, Michael, Rob}
+
+Food Sponsor - Lucas and Lauren at [Robert Half][4]. Say hi to them.
+[1]: http://www.exchangeokc.com/
+[2]: http://brightbit.com/
+[3]: https://twitter.com/brightbit
+[4]: http://www.roberthalf.com/technology/
+[5]: 
