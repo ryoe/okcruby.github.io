@@ -11,6 +11,7 @@ Hold on to your queries, the [Brightbit][1] superstars are going to show us how 
 
 Theme of the meeting is "How Brightbit constructs complex database queries with Active Record" and here is a little more about [Brightbit][3]:
 
+Jonathan Camenisch ([t][]) will be the voice box for this talk. He has been building software of various kinds for about 20 years. He now helps Brightbit build web applications, usually on Rails. He likes learning about different programming paradigms and then finding excuses to smash them together.
 
 Location: [The Exchange][1]  
 Time: 11:30 - 12:30  
@@ -19,9 +20,13 @@ If you have an issue with using Google, please don't hesitate to DM on Twitter, 
 
 {Jeremy, Michael, Rob}
 
+Location Sponsor - [raisemore][] and [The Exchange][1]  
 Food Sponsor - Lucas and Lauren at [Robert Half][4]. Say hi to them.
 [1]: http://www.exchangeokc.com/
 [2]: http://brightbit.com/
 [3]: https://twitter.com/brightbit
 [4]: http://www.roberthalf.com/technology/
 [5]: 
+
+[raisemore]: [http://raisemore.com] "raisemore"
+[t]: https://twitter.com/jCamenisch
