@@ -4,7 +4,7 @@
   <title><![CDATA[okcruby]]></title>
   <link href="http://www.okcruby.org/atom.xml" rel="self"/>
   <link href="http://www.okcruby.org/"/>
-  <updated>2013-12-28T18:44:11-06:00</updated>
+  <updated>2014-01-02T11:14:01-06:00</updated>
   <id>http://www.okcruby.org/</id>
   <author>
     <name><![CDATA[okcruby]]></name>
@@ -24,6 +24,8 @@
 
 <p>Theme of the meeting is &ldquo;How Brightbit constructs complex database queries with Active Record&rdquo; and here is a little more about <a href="https://twitter.com/brightbit">Brightbit</a>:</p>
 
+<p>Jonathan Camenisch (<a href="https://twitter.com/jCamenisch">t</a>) will be the voice box for this talk. He has been building software of various kinds for about 20 years. He now helps Brightbit build web applications, usually on Rails. He likes learning about different programming paradigms and then finding excuses to smash them together.</p>
+
 <p>Location: <a href="http://www.exchangeokc.com/">The Exchange</a><br/>
 Time: 11:30 &ndash; 12:30<br/>
 RSVP: Please <a href="">Coming Soon</a>. We use this number strictly for ordering food.<br/>
@@ -31,7 +33,8 @@ If you have an issue with using Google, please don&rsquo;t hesitate to DM on Twi
 
 <p>{Jeremy, Michael, Rob}</p>
 
-<p>Food Sponsor &ndash; Lucas and Lauren at <a href="http://www.roberthalf.com/technology/">Robert Half</a>. Say hi to them.</p>
+<p>Location Sponsor &ndash; <a href="[http://raisemore.com]" title="raisemore">raisemore</a> and <a href="http://www.exchangeokc.com/">The Exchange</a><br/>
+Food Sponsor &ndash; Lucas and Lauren at <a href="http://www.roberthalf.com/technology/">Robert Half</a>. Say hi to them.</p>
 ]]></content>
   </entry>
   
