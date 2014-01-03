@@ -28,5 +28,5 @@ Food Sponsor - Lucas and Lauren at [Robert Half][4]. Say hi to them.
 [4]: http://www.roberthalf.com/technology/
 [5]: https://plus.google.com/events/cndm01pb8nnbvb3hp1ob9t8ep9o
 
-[raisemore]: [http://raisemore.com] "raisemore"
+[raisemore]: http://raisemore.com "raisemore"
 [t]: https://twitter.com/jCamenisch
