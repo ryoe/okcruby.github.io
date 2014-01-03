@@ -7,7 +7,7 @@ categories:
 ---
 #### January 09th Meeting
 
-Hold on to your queries, the [Brightbit][1] superstars are going to show us how they put on their hard hats and turn active record into their pick axe.
+Hold on to your queries, the [Brightbit][2] superstars are going to show us how they put on their hard hats and turn active record into their pick axe.
 
 Theme of the meeting is "How Brightbit constructs complex database queries with Active Record" and here is a little more about [Brightbit][3]:
 
