@@ -4,7 +4,7 @@
   <title><![CDATA[okcruby]]></title>
   <link href="http://www.okcruby.org/atom.xml" rel="self"/>
   <link href="http://www.okcruby.org/"/>
-  <updated>2014-01-02T11:14:01-06:00</updated>
+  <updated>2014-01-03T10:11:41-06:00</updated>
   <id>http://www.okcruby.org/</id>
   <author>
     <name><![CDATA[okcruby]]></name>
@@ -20,7 +20,7 @@
     <id>http://www.okcruby.org/blog/2013/12/28/jan-2014-meeting</id>
     <content type="html"><![CDATA[<h4>January 09th Meeting</h4>
 
-<p>Hold on to your queries, the <a href="http://www.exchangeokc.com/">Brightbit</a> superstars are going to show us how they put on their hard hats and turn active record into their pick axe.</p>
+<p>Hold on to your queries, the <a href="http://brightbit.com/">Brightbit</a> superstars are going to show us how they put on their hard hats and turn active record into their pick axe.</p>
 
 <p>Theme of the meeting is &ldquo;How Brightbit constructs complex database queries with Active Record&rdquo; and here is a little more about <a href="https://twitter.com/brightbit">Brightbit</a>:</p>
 
