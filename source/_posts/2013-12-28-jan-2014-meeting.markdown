@@ -15,7 +15,7 @@ Jonathan Camenisch ([t][]) will be the voice box for this talk. He has been buil
 
 Location: [The Exchange][1]  
 Time: 11:30 - 12:30  
-RSVP: Please [Coming Soon][5]. We use this number strictly for ordering food.  
+RSVP: Please [RSVP through the G+ event][5]. We use this number strictly for ordering food.  
 If you have an issue with using Google, please don't hesitate to DM on Twitter, email us or whatever.
 
 {Jeremy, Michael, Rob}
@@ -26,7 +26,7 @@ Food Sponsor - Lucas and Lauren at [Robert Half][4]. Say hi to them.
 [2]: http://brightbit.com/
 [3]: https://twitter.com/brightbit
 [4]: http://www.roberthalf.com/technology/
-[5]: 
+[5]: https://plus.google.com/events/cndm01pb8nnbvb3hp1ob9t8ep9o
 
 [raisemore]: [http://raisemore.com] "raisemore"
 [t]: https://twitter.com/jCamenisch
