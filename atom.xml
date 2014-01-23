@@ -4,7 +4,7 @@
   <title><![CDATA[okcruby]]></title>
   <link href="http://www.okcruby.org/atom.xml" rel="self"/>
   <link href="http://www.okcruby.org/"/>
-  <updated>2014-01-03T16:21:34-06:00</updated>
+  <updated>2014-01-23T13:07:42-06:00</updated>
   <id>http://www.okcruby.org/</id>
   <author>
     <name><![CDATA[okcruby]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Feb 2014 Meeting]]></title>
+    <link href="http://www.okcruby.org/blog/2014/01/23/feb-2014-meeting/"/>
+    <updated>2014-01-23T12:57:00-06:00</updated>
+    <id>http://www.okcruby.org/blog/2014/01/23/feb-2014-meeting</id>
+    <content type="html"><![CDATA[<h4>February 13th Meeting</h4>
+
+<p>Buckle up your SSH certs, because we&rsquo;re launching February with a talk on Capistrano.</p>
+
+<p>Kelly Mahan is going to bring us the following: With our move to ruby and rails we needed a better way to deploy our applications to remote servers. Capistrano is a better way. I&rsquo;ll walkthrough a simple standard setup. Then I&rsquo;ll show off some of our more complex deployment scripts and automation. Finally I&rsquo;ll touch on some of the new stuff with Capistrano 3 and the direction that it is heading.﻿</p>
+
+<p>Kelly Mahan (<a href="https://twitter.com/kmahan">t</a>) will be the voice box for this talk. He&rsquo;s have been a professional web developer / jack of all trades for the past 16 years, but programming since way back when the TRS-80 and tape decks were all the rage. He started out with windows servers, asp, access databases, then picked up flash action-script and javascript to round out my interface skills. Around 2006 while working at Digimedia.com, the dev team made a group decision to learn rails. Ruby is still his development tool of choice with rails my goto for more complex web applications.</p>
+
+<p>Location: <a href="http://www.exchangeokc.com/">The Exchange</a><br/>
+Time: 11:30 &ndash; 12:30<br/>
+RSVP: Please <a href="http://okcruby.org">TBD</a>. We use this number strictly for ordering food.<br/>
+If you have an issue with using Google, please don&rsquo;t hesitate to DM on Twitter, email us or whatever.</p>
+
+<p>{Jeremy, Michael, Rob}</p>
+
+<p>Location Sponsor &ndash; <a href="http://raisemore.com" title="raisemore">raisemore</a> and <a href="http://www.exchangeokc.com/">The Exchange</a><br/>
+Food Sponsor &ndash; Lucas and Lauren at <a href="http://www.roberthalf.com/technology/">Robert Half</a>. Say hi to them.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Jan 2014 Meeting]]></title>
