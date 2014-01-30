@@ -4,7 +4,7 @@
   <title><![CDATA[okcruby]]></title>
   <link href="http://www.okcruby.org/atom.xml" rel="self"/>
   <link href="http://www.okcruby.org/"/>
-  <updated>2014-01-23T13:07:42-06:00</updated>
+  <updated>2014-01-30T13:01:46-06:00</updated>
   <id>http://www.okcruby.org/</id>
   <author>
     <name><![CDATA[okcruby]]></name>
@@ -33,8 +33,15 @@ If you have an issue with using Google, please don&rsquo;t hesitate to DM on Twi
 
 <p>{Jeremy, Michael, Rob}</p>
 
-<p>Location Sponsor &ndash; <a href="http://raisemore.com" title="raisemore">raisemore</a> and <a href="http://www.exchangeokc.com/">The Exchange</a><br/>
-Food Sponsor &ndash; Lucas and Lauren at <a href="http://www.roberthalf.com/technology/">Robert Half</a>. Say hi to them.</p>
+<table width="776" cellspacing="0" cellpadding="0">
+<tr><td colspan="3"><img src="http://www.okcruby.org/images/sponsors/sponsor-bar.jpg" /></td></tr>
+<tr><td><img src="http://www.okcruby.org/images/sponsors/half.jpg" /></td>
+<td><a href="http://raisemore.com/"><img src="http://www.okcruby.org/images/sponsors/raisemore.jpg" /></a></td>
+<td><a href="http://www.exchangeokc.com/"><img src="http://www.okcruby.org/images/sponsors/exchange.jpg" /></a></td></tr>
+</table>
+
+
+
 ]]></content>
   </entry>
   
