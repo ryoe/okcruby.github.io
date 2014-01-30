@@ -21,8 +21,14 @@ If you have an issue with using Google, please don't hesitate to DM on Twitter, 
 
 {Jeremy, Michael, Rob}
 
-Location Sponsor - [raisemore][] and [The Exchange][exchange]  
-Food Sponsor - Lucas and Lauren at [Robert Half][rhi]. Say hi to them.
+<table width="776" cellspacing="0" cellpadding="0">
+<tr><td colspan="3"><img src="{{ root_url }}/images/sponsors/sponsor-bar.jpg" /></td></tr>
+<tr><td><img src="{{ root_url }}/images/sponsors/half.jpg" /></td>
+<td><a href="http://raisemore.com/"><img src="{{ root_url }}/images/sponsors/raisemore.jpg" /></a></td>
+<td><a href="http://www.exchangeokc.com/"><img src="{{ root_url }}/images/sponsors/exchange.jpg" /></a></td></tr>
+</table>
+
+
 [t]: https://twitter.com/kmahan
 
 [rsvp]: http://okcruby.org
