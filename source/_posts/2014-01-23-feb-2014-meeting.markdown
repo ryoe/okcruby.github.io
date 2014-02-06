@@ -12,12 +12,10 @@ Buckle up your SSH certs, because we're launching February with a talk on Capist
 Kelly Mahan is going to bring us the following: With our move to ruby and rails we needed a better way to deploy our applications to remote servers. Capistrano is a better way. I'll walkthrough a simple standard setup. Then I'll show off some of our more complex deployment scripts and automation. Finally I'll touch on some of the new stuff with Capistrano 3 and the direction that it is heading.﻿
 
 
-Kelly Mahan ([t][]) will be the voice box for this talk. He's have been a professional web developer / jack of all trades for the past 16 years, but programming since way back when the TRS-80 and tape decks were all the rage. He started out with windows servers, asp, access databases, then picked up flash action-script and javascript to round out my interface skills. Around 2006 while working at Digimedia.com, the dev team made a group decision to learn rails. Ruby is still his development tool of choice with rails my goto for more complex web applications.
+Kelly Mahan ([t][]) will be the voice box for this talk. He's have been a professional web developer / jack of all trades for the past 16 years, but programming since way back when the TRS-80 and tape decks were all the rage. He started out with windows servers, asp, access databases, then picked up flash action-script and javascript to round out his interface skills. Around 2006 while working at Digimedia.com, the dev team made a group decision to learn Rails. Ruby is still his development tool of choice with Rails his goto for more complex web applications.
 
 Location: [The Exchange][exchange]  
 Time: 11:30 - 12:30  
-RSVP: Please [TBD][rsvp]. We use this number strictly for ordering food.  
-If you have an issue with using Google, please don't hesitate to DM on Twitter, email us or whatever.
 
 {Jeremy, Michael, Rob}
 
