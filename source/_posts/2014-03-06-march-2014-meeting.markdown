@@ -1,0 +1,29 @@
+---
+layout: post
+title: "March 2014 Meeting"
+date: 2014-03-06 14:38
+comments: true
+categories: 
+---
+
+#### March 13th Meeting
+
+And the saints go Marching in. We're very happy to have Marcus from Lifechurch talking to us about S-S-S-S-State Machines. We're also going to have Britt giving us the low down on something he's brewing up at work.
+
+Marcus Morrison([t][]) has been a developer on the Church to Church team at LifeChurch.tv in Edmond, Oklahoma since 2012. There, he's worked on tools and products that service the international church community, and his newest product, Develop.Me, will launch in spring, 2014. Britt Mileshosky is also a developer at LifeChurch who will be delivering a mystery talk about some of the things they've been working on.
+
+Location: [The Exchange][exchange]  
+Time: 11:30 - 12:30
+
+{Jeremy, Michael, Rob}
+
+<table width="776" cellspacing="0" cellpadding="0">
+<tr><td colspan="3"><img src="{{ root_url }}/images/sponsors/sponsor-bar.jpg" /></td></tr>
+<tr><td><img src="{{ root_url }}/images/sponsors/half.jpg" /></td>
+<td><a href="http://raisemore.com/"><img src="{{ root_url }}/images/sponsors/raisemore.jpg" /></a></td>
+<td><a href="http://www.exchangeokc.com/"><img src="{{ root_url }}/images/sponsors/exchange.jpg" /></a></td></tr>
+</table>
+
+
+[t]: https://twitter.com/mmorrison
+[exchange]: http://www.exchangeokc.com/
