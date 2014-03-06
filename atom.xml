@@ -4,7 +4,7 @@
   <title><![CDATA[okcruby]]></title>
   <link href="http://www.okcruby.org/atom.xml" rel="self"/>
   <link href="http://www.okcruby.org/"/>
-  <updated>2014-02-06T09:18:51-06:00</updated>
+  <updated>2014-03-06T14:50:45-06:00</updated>
   <id>http://www.okcruby.org/</id>
   <author>
     <name><![CDATA[okcruby]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[March 2014 Meeting]]></title>
+    <link href="http://www.okcruby.org/blog/2014/03/06/march-2014-meeting/"/>
+    <updated>2014-03-06T14:38:00-06:00</updated>
+    <id>http://www.okcruby.org/blog/2014/03/06/march-2014-meeting</id>
+    <content type="html"><![CDATA[<h4>March 13th Meeting</h4>
+
+<p>And the saints go Marching in. We&rsquo;re very happy to have Marcus from Lifechurch talking to us about S-S-S-S-State Machines. We&rsquo;re also going to have Britt giving us the low down on something he&rsquo;s brewing up at work.</p>
+
+<p>Marcus Morrison(<a href="https://twitter.com/mmorrison">t</a>) has been a developer on the Church to Church team at LifeChurch.tv in Edmond, Oklahoma since 2012. There, he&rsquo;s worked on tools and products that service the international church community, and his newest product, Develop.Me, will launch in spring, 2014. Britt Mileshosky is also a developer at LifeChurch who will be delivering a mystery talk about some of the things they&rsquo;ve been working on.</p>
+
+<p>Location: <a href="http://www.exchangeokc.com/">The Exchange</a><br/>
+Time: 11:30 &ndash; 12:30</p>
+
+<p>{Jeremy, Michael, Rob}</p>
+
+<table width="776" cellspacing="0" cellpadding="0">
+<tr><td colspan="3"><img src="http://www.okcruby.org/images/sponsors/sponsor-bar.jpg" /></td></tr>
+<tr><td><img src="http://www.okcruby.org/images/sponsors/half.jpg" /></td>
+<td><a href="http://raisemore.com/"><img src="http://www.okcruby.org/images/sponsors/raisemore.jpg" /></a></td>
+<td><a href="http://www.exchangeokc.com/"><img src="http://www.okcruby.org/images/sponsors/exchange.jpg" /></a></td></tr>
+</table>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Feb 2014 Meeting]]></title>
