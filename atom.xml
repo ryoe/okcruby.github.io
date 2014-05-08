@@ -4,7 +4,7 @@
   <title><![CDATA[okcruby]]></title>
   <link href="http://www.okcruby.org/atom.xml" rel="self"/>
   <link href="http://www.okcruby.org/"/>
-  <updated>2014-05-03T08:24:03-05:00</updated>
+  <updated>2014-05-08T10:04:29-05:00</updated>
   <id>http://www.okcruby.org/</id>
   <author>
     <name><![CDATA[okcruby]]></name>
@@ -18,11 +18,15 @@
     <link href="http://www.okcruby.org/blog/2014/05/03/may-2014-meeting/"/>
     <updated>2014-05-03T08:05:00-05:00</updated>
     <id>http://www.okcruby.org/blog/2014/05/03/may-2014-meeting</id>
-    <content type="html"><![CDATA[<h4>May 8th Meeting</h4>
+    <content type="html"><![CDATA[<h2>Cancelled May 8th Meeting</h2>
+
+<h4>Due to unforseen logistical reasons, we have to cancel our meeting for the 8th.</h4>
+
+<h4>Sorry and hope to see you next month</h4>
 
 <p>Interested in how you can take your ruby skills and get the #1 paid app in the Apple App Store? We are too! That is why we&rsquo;ve summoned Amir Rajan (<a href="http://amirrajan.net">b</a>/<a href="https://twitter.com/amirrajan">t</a>) to talk about RubyMotion and his app &ldquo;<a href="https://itunes.apple.com/us/app/a-dark-room/id736683061?mt=8">A Dark Room</a>&rdquo;.  Amir will show us the beauty and elegance of using ruby instead of objective-c to build your app as well as the meteoric rise of A Dark Room.</p>
 
-<p>Amir (<a href="http://amirrajan.net">b</a> / <a href="https://twitter.com/amirrajan">t</a>) is a polyglot superstar. Having cut his teeth in the deep waters of .Net, Amir has also sailed his code-ship into the watery regions of Nodejs, Ruby, objective C and others. Showing his commitment to okcruby, he will pack up nearly all of his possessions and travel to tell us about his odyssey with A Dark Room.</p>
+<p>Amir (<a href="http://amirrajan.net">b</a>/<a href="https://twitter.com/amirrajan">t</a>) is a polyglot superstar. Having cut his teeth in the deep waters of .Net, Amir has also sailed his code-ship into the watery regions of Nodejs, Ruby, objective C and others. Showing his commitment to okcruby, he will pack up nearly all of his possessions and travel to tell us about his odyssey with A Dark Room.</p>
 
 <p>Location: <a href="http://www.exchangeokc.com/">The Exchange</a>
 Time: 11:30 &ndash; 12:30</p>
