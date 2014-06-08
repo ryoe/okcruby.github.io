@@ -1,0 +1,29 @@
+---
+layout: post
+title: "June 2014 Meeting"
+date: 2014-06-01 08:05
+comments: true
+categories:
+---
+## June 12th Meeting
+
+Interested in how you can take your ruby skills and get the #1 paid app in the Apple App Store? We are too! That is why we've summoned Amir Rajan ([b][b]/[t][t]) to talk about RubyMotion and his app "[A Dark Room][darkroom]".  Amir will show us the beauty and elegance of using ruby instead of objective-c to build your app as well as the meteoric rise of A Dark Room.
+
+Amir ([b][b]/[t][t]) is a polyglot superstar. Having cut his teeth in the deep waters of .Net, Amir has also sailed his code-ship into the watery regions of Nodejs, Ruby, objective C and others. Showing his commitment to okcruby, he will pack up nearly all of his possessions and travel to tell us about his odyssey with A Dark Room.
+
+Location: [Prototek][prototek]
+Time: 11:30 - 12:30
+
+{Jeremy, Michael, Paul, Rob}
+
+<table width="550" cellspacing="0" cellpadding="0">
+<tr><td colspan="2"><img src="{{ root_url }}/images/sponsors/sponsor-bar.jpg" /></td></tr>
+<tr><td><a href="http://www.roberthalf.com/technology/"><img src="{{ root_url }}/images/sponsors/half.jpg" /></a></td>
+<td><a href="http://raisemore.com/"><img src="{{ root_url }}/images/sponsors/raisemore.jpg" /></a></td>
+</tr>
+</table>
+
+[t]: https://twitter.com/amirrajan
+[b]: http://amirrajan.net
+[prototek]: http://prototekokc.com/
+[darkroom]: https://itunes.apple.com/us/app/a-dark-room/id736683061?mt=8
