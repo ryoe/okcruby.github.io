@@ -1,0 +1,36 @@
+---
+layout: post
+title: "July 2014 Meeting"
+date: 2014-06-24 13:23
+comments: true
+categories: 
+---
+
+### July 10th Meeting
+
+Have a gem you've been polishing on the weekends? Found a tool that improved your quality of life? Tackling some ridiculous problem and want to share the results? Well now's your chance to get out the hammers and call down the thunder! This month OK.rb will be hosting lightning talks; technical or soft, we want to share in your journey!
+
+Talks only need to be 5-10 mins, and sign up is easy. Just leave a comment on [the Google+ announcement](https://plus.google.com/events/ctmsrndc3h7p6s9g7fn41rhnsdc) or contact one of the organizers directly. We'll see you on Thorsday!
+
+Location: [Prototek][prototek]
+Time: 11:30 - 12:30
+
+{Jeremy, Michael, Paul, Rob}
+
+<a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415">Prototek on Google Maps.</a>
+
+<img src="{{root_url}}/images/prototek_parking.jpg" class="fit">
+
+<table width="550" cellspacing="0" cellpadding="0">
+<tr><td colspan="2"><img src="{{ root_url }}/images/sponsors/sponsor-bar.jpg" /></td></tr>
+<tr><td><a href="http://www.roberthalf.com/technology/"><img src="{{ root_url }}/images/sponsors/half.jpg" /></a></td>
+<td><a href="http://raisemore.com/"><img src="{{ root_url }}/images/sponsors/raisemore.jpg" /></a></td>
+</tr>
+</table>
+
+
+
+
+[prototek]: http://prototekokc.com/
+
+
