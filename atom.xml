@@ -4,7 +4,7 @@
   <title><![CDATA[okcruby]]></title>
   <link href="http://www.okcruby.org/atom.xml" rel="self"/>
   <link href="http://www.okcruby.org/"/>
-  <updated>2014-06-24T13:28:15-05:00</updated>
+  <updated>2014-08-01T08:48:50-05:00</updated>
   <id>http://www.okcruby.org/</id>
   <author>
     <name><![CDATA[okcruby]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[August 2014 Meeting]]></title>
+    <link href="http://www.okcruby.org/blog/2014/08/01/august-2014-meeting/"/>
+    <updated>2014-08-01T08:31:00-05:00</updated>
+    <id>http://www.okcruby.org/blog/2014/08/01/august-2014-meeting</id>
+    <content type="html"><![CDATA[<h3>August 14th Meeting</h3>
+
+<p>This month we&rsquo;ll have a special guest presenting for us from Seattle.
+Matt Kirk will give us a dose of machine learning on the topic of building (and testing)
+sentiment analysis using support vector machines in Ruby.  This is sure
+to be an interesting session that you won&rsquo;t want to miss.</p>
+
+<p>Matt is the author of the upcoming O&#8217;Reilly book
+<a href="http://signup.thoughtfulml.com/">Thoughtful Machine Learning</a>. He&rsquo;s
+also a partner at <a href="http://modulus7.com/">Modulus 7</a>, a change management
+consultancy in Seattle, WA.  When he&rsquo;s not teaching machines to
+learn or people to change, you might find him travelling or enjoying (or expanding) his 2,000+(!!) collection of vinyl records.</p>
+
+<p>Location: <a href="http://prototekokc.com/">Prototek</a>
+Time: 11:30 &ndash; 12:30</p>
+
+<p>{Jeremy, Michael, Paul, Rob}</p>
+
+<p><a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415">Prototek on Google Maps.</a></p>
+
+<p><img src="http://www.okcruby.org/images/prototek_parking.jpg" class="fit"></p>
+
+<table width="550" cellspacing="0" cellpadding="0">
+<tr><td colspan="2"><img src="http://www.okcruby.org/images/sponsors/sponsor-bar.jpg" /></td></tr>
+<tr><td><a href="http://www.roberthalf.com/technology/"><img src="http://www.okcruby.org/images/sponsors/half.jpg" /></a></td>
+<td><a href="http://raisemore.com/"><img src="http://www.okcruby.org/images/sponsors/raisemore.jpg" /></a></td>
+</tr>
+</table>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[July 2014 Meeting]]></title>
@@ -31,7 +70,12 @@ Time: 11:30 &ndash; 12:30</p>
 
 <p><a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415">Prototek on Google Maps.</a></p>
 
-<p><img src="http://www.okcruby.org/images/prototek_parking.jpg" class="fit"></p>
+<!--
+<img src="http://www.okcruby.org/images/prototek_parking.jpg" class="fit">
+&#8211;>
+
+
+
 
 <table width="550" cellspacing="0" cellpadding="0">
 <tr><td colspan="2"><img src="http://www.okcruby.org/images/sponsors/sponsor-bar.jpg" /></td></tr>
