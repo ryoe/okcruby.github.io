@@ -9,11 +9,11 @@ categories:
 ### August 14th Meeting
 
 This month we'll have a special guest presenting for us from Seattle.
-Matt Kirk will give us a dose of machine learning on the topic of building (and testing)
+[Matt Kirk][mjkirk] will give us a dose of machine learning on the topic of building (and testing)
 sentiment analysis using support vector machines in Ruby.  This is sure
 to be an interesting session that you won't want to miss.
 
-Matt is the author of the upcoming O'Reilly book 
+[Matt][mjkirk] is the author of the upcoming O'Reilly book 
 [Thoughtful Machine Learning](http://signup.thoughtfulml.com/). He's
 also a partner at [Modulus 7](http://modulus7.com/), a change management
 consultancy in Seattle, WA.  When he's not teaching machines to
@@ -42,3 +42,4 @@ Time: 11:30 - 12:30
 
 
 [prototek]: http://prototekokc.com/
+[mjkirk]: http://twitter.com/mjkirk
