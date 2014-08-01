@@ -1,16 +1,26 @@
 ---
 layout: post
-title: "July 2014 Meeting"
-date: 2014-06-24 13:23
+title: "August 2014 Meeting"
+date: 2014-08-01 08:31
 comments: true
 categories: 
 ---
 
-### July 10th Meeting
+### August 14th Meeting
 
-Have a gem you've been polishing on the weekends? Found a tool that improved your quality of life? Tackling some ridiculous problem and want to share the results? Well now's your chance to get out the hammers and call down the thunder! This month OK.rb will be hosting lightning talks; technical or soft, we want to share in your journey!
+This month we'll have a special guest presenting for us from Seattle.
+Matt Kirk will give us a dose of machine learning on the topic of building (and testing)
+sentiment analysis using support vector machines in Ruby.  This is sure
+to be an interesting session that you won't want to miss.
 
-Talks only need to be 5-10 mins, and sign up is easy. Just leave a comment on [the Google+ announcement](https://plus.google.com/events/ctmsrndc3h7p6s9g7fn41rhnsdc) or contact one of the organizers directly. We'll see you on Thorsday!
+Matt is the author of the upcoming O'Reilly book 
+[Thoughtful Machine Learning](http://signup.thoughtfulml.com/). He's
+also a partner at [Modulus 7](http://modulus7.com/), a change management
+consultancy in Seattle, WA.  When he's not teaching machines to
+learn or people to change, you might find him travelling or enjoying (or expanding) his 2,000+(!!) collection of vinyl records.
+
+
+
 
 Location: [Prototek][prototek]
 Time: 11:30 - 12:30
@@ -18,9 +28,8 @@ Time: 11:30 - 12:30
 {Jeremy, Michael, Paul, Rob}
 
 <a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415">Prototek on Google Maps.</a>
-<!--
+
 <img src="{{root_url}}/images/prototek_parking.jpg" class="fit">
--->
 
 <table width="550" cellspacing="0" cellpadding="0">
 <tr><td colspan="2"><img src="{{ root_url }}/images/sponsors/sponsor-bar.jpg" /></td></tr>
@@ -33,5 +42,3 @@ Time: 11:30 - 12:30
 
 
 [prototek]: http://prototekokc.com/
-
-
