@@ -4,7 +4,7 @@
   <title><![CDATA[okcruby]]></title>
   <link href="http://www.okcruby.org/atom.xml" rel="self"/>
   <link href="http://www.okcruby.org/"/>
-  <updated>2014-08-01T08:57:43-05:00</updated>
+  <updated>2014-08-07T15:59:24-05:00</updated>
   <id>http://www.okcruby.org/</id>
   <author>
     <name><![CDATA[okcruby]]></name>
@@ -26,7 +26,8 @@ sentiment analysis using support vector machines in Ruby.  This is sure
 to be an interesting session that you won&rsquo;t want to miss.</p>
 
 <p><a href="http://twitter.com/mjkirk">Matt</a> is the author of the upcoming O&#8217;Reilly book
-<a href="http://signup.thoughtfulml.com/">Thoughtful Machine Learning</a>. He&rsquo;s
+<a href="http://www.amazon.com/Thoughtful-Machine-Learning-Test-Driven-Approach/dp/1449374069">Thoughtful Machine Learning</a>.
+(You can also <a href="http://signup.thoughtfulml.com/">sign up here to be notified when the book is released.</a>) He&rsquo;s
 also a partner at <a href="http://modulus7.com/">Modulus 7</a>, a change management
 consultancy in Seattle, WA.  When he&rsquo;s not teaching machines to
 learn or people to change, you might find him travelling or enjoying (or expanding) his 2,000+(!!) collection of vinyl records.</p>
