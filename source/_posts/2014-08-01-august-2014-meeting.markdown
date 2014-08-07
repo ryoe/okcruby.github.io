@@ -14,7 +14,8 @@ sentiment analysis using support vector machines in Ruby.  This is sure
 to be an interesting session that you won't want to miss.
 
 [Matt][mjkirk] is the author of the upcoming O'Reilly book 
-[Thoughtful Machine Learning](http://signup.thoughtfulml.com/). He's
+[Thoughtful Machine Learning](http://www.amazon.com/Thoughtful-Machine-Learning-Test-Driven-Approach/dp/1449374069). 
+(You can also [sign up here to be notified when the book is released.](http://signup.thoughtfulml.com/)) He's
 also a partner at [Modulus 7](http://modulus7.com/), a change management
 consultancy in Seattle, WA.  When he's not teaching machines to
 learn or people to change, you might find him travelling or enjoying (or expanding) his 2,000+(!!) collection of vinyl records.
