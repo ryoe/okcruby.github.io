@@ -4,7 +4,7 @@
   <title><![CDATA[okcruby]]></title>
   <link href="http://www.okcruby.org/atom.xml" rel="self"/>
   <link href="http://www.okcruby.org/"/>
-  <updated>2014-09-09T14:30:20-05:00</updated>
+  <updated>2014-09-09T14:38:14-05:00</updated>
   <id>http://www.okcruby.org/</id>
   <author>
     <name><![CDATA[okcruby]]></name>
@@ -22,12 +22,30 @@
 
 <p>We&rsquo;re trying something a little different this month! Instead of a
 formal presentation from a single speaker, we&rsquo;re going to have a
-round-table style discussion.  The topic will be &ldquo;testing&rdquo; and we&rsquo;ll
-talk about various philosopies and approaches that are commonly taken.
-We&rsquo;ll discuss what to test, and what not to test, when in the dev cycle
+round-table style discussion.  The topic will be &ldquo;Is TDD really dead?&rdquo; and we&rsquo;ll
+talk about various philosopies and approaches that are commonly taken
+with automated testing. We&rsquo;ll discuss what to test, and what not to test, when in the dev cycle
 tests should be written, when they should be run, how they affect
 deployment, and how they affect development.  Come join in the
 discussion!</p>
+
+<p>Location: [Prototek][prototek]
+Time: 11:30 &ndash; 12:30</p>
+
+<p>{Jeremy, Michael, Paul, Rob}</p>
+
+<p><a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415">Prototek on Google Maps.</a></p>
+
+<p><img src="http://www.okcruby.org/images/prototek_parking.jpg" class="fit"></p>
+
+<table width="550" cellspacing="0" cellpadding="0">
+<tr><td colspan="2"><img src="http://www.okcruby.org/images/sponsors/sponsor-bar.jpg" /></td></tr>
+<tr><td><a href="http://www.roberthalf.com/technology/"><img src="http://www.okcruby.org/images/sponsors/half.jpg" /></a></td>
+</tr>
+</table>
+
+
+
 ]]></content>
   </entry>
   
@@ -54,10 +72,6 @@ learn or people to change, you might find him travelling or enjoying (or expandi
 Time: 11:30 &ndash; 12:30</p>
 
 <p>{Jeremy, Michael, Paul, Rob}</p>
-
-<p><a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415">Prototek on Google Maps.</a></p>
-
-<p><img src="http://www.okcruby.org/images/prototek_parking.jpg" class="fit"></p>
 
 <table width="550" cellspacing="0" cellpadding="0">
 <tr><td colspan="2"><img src="http://www.okcruby.org/images/sponsors/sponsor-bar.jpg" /></td></tr>
@@ -88,13 +102,6 @@ Time: 11:30 &ndash; 12:30</p>
 <p>{Jeremy, Michael, Paul, Rob}</p>
 
 <p><a href="https://www.google.com/maps/place/401+NW+10th+St/@35.478527,-97.519417,17z/data=!3m1!4b1!4m2!3m1!1s0x87b21733fd30d655:0xce3a1cd9b95c8415">Prototek on Google Maps.</a></p>
-
-<!--
-<img src="http://www.okcruby.org/images/prototek_parking.jpg" class="fit">
-&#8211;>
-
-
-
 
 <table width="550" cellspacing="0" cellpadding="0">
 <tr><td colspan="2"><img src="http://www.okcruby.org/images/sponsors/sponsor-bar.jpg" /></td></tr>
