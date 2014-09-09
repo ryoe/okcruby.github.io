@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-### September 14th Meeting
+### September 11th Meeting
 
 We're trying something a little different this month! Instead of a
 formal presentation from a single speaker, we're going to have a
