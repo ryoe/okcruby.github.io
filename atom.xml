@@ -4,7 +4,7 @@
   <title><![CDATA[okcruby]]></title>
   <link href="http://www.okcruby.org/atom.xml" rel="self"/>
   <link href="http://www.okcruby.org/"/>
-  <updated>2014-08-07T15:59:24-05:00</updated>
+  <updated>2014-09-09T14:30:20-05:00</updated>
   <id>http://www.okcruby.org/</id>
   <author>
     <name><![CDATA[okcruby]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[September 2014 Meeting]]></title>
+    <link href="http://www.okcruby.org/blog/2014/09/09/september-2014-meeting/"/>
+    <updated>2014-09-09T14:23:00-05:00</updated>
+    <id>http://www.okcruby.org/blog/2014/09/09/september-2014-meeting</id>
+    <content type="html"><![CDATA[<h3>September 14th Meeting</h3>
+
+<p>We&rsquo;re trying something a little different this month! Instead of a
+formal presentation from a single speaker, we&rsquo;re going to have a
+round-table style discussion.  The topic will be &ldquo;testing&rdquo; and we&rsquo;ll
+talk about various philosopies and approaches that are commonly taken.
+We&rsquo;ll discuss what to test, and what not to test, when in the dev cycle
+tests should be written, when they should be run, how they affect
+deployment, and how they affect development.  Come join in the
+discussion!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[August 2014 Meeting]]></title>
